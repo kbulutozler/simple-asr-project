@@ -10,4 +10,5 @@ RUN pip install -U torch==1.11.0 \
     datasets>=1.18.3 \
     librosa \
     jiwer \
+    setuptools \
     numpy
